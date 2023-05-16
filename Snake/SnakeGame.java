@@ -1,4 +1,4 @@
-import java.awt.Color;
+ import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Point;
 import java.awt.event.KeyEvent;
@@ -107,7 +107,6 @@ public class SnakeGame extends JPanel implements KeyListener, Runnable {
                 e.printStackTrace();
             }
         }
-        System.out.println("Game Over!");
-    }
-    
+        System.out.println("
+
 
